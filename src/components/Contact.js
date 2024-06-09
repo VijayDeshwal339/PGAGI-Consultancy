@@ -3,7 +3,7 @@ import phone from '../assests/Vector.png'
 
 const Contact = () => {
   return (
-    <div className='flex flex-col gap-10 rounded-lg mx-[10%] my-[100px] px-5' style={{background: 'linear-gradient(335.33deg, #FFFFFF 2.31%, #FFD3B4 116.03%)'}}>
+    <div className='flex flex-col gap-10 rounded-lg w-full max-w-[340px] mx-auto my-[100px] px-5' style={{background: 'linear-gradient(335.33deg, #FFFFFF 2.31%, #FFD3B4 116.03%)'}}>
 
      <div className='mt-24'>
         <p className='font-bold text-3xl'>Try now</p>

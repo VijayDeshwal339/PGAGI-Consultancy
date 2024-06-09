@@ -1,17 +1,3 @@
-// import React from 'react'
-// import Menu from '../assests/Menu.png'
-
-// const Header = () => {
-//   return (
-//     <div className='flex justify-between items-center px-3 cursor-pointer p-5'>
-//         <p className='font-semibold text-base'>Toingg</p>
-//         <img src={Menu}  alt='Menu' className='' />
-//     </div>
-//   )
-// }
-
-// export default Header
-
 import React, { useState } from 'react';
 import Menu from '../assests/Menu.png';
 import { FaArrowRight } from 'react-icons/fa';
